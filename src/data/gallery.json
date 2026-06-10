@@ -1,0 +1,128 @@
+[
+  {
+    "id": "t-01",
+    "category": "treinos",
+    "src": null,
+    "alt": "Treino técnico no tatame",
+    "caption": "Treino técnico — preparação para o Brasileiro 2026"
+  },
+  {
+    "id": "t-02",
+    "category": "treinos",
+    "src": null,
+    "alt": "Aquecimento antes do treino",
+    "caption": "Aquecimento e mobilidade — Academia Corpo Arte"
+  },
+  {
+    "id": "t-03",
+    "category": "treinos",
+    "src": null,
+    "alt": "Treino de quedas",
+    "caption": "Trabalho de quedas e transições de solo"
+  },
+  {
+    "id": "t-04",
+    "category": "treinos",
+    "src": null,
+    "alt": "Treino com parceiro",
+    "caption": "Randori com parceiros de treino"
+  },
+  {
+    "id": "t-05",
+    "category": "treinos",
+    "src": null,
+    "alt": "Condicionamento físico",
+    "caption": "Condicionamento físico e força"
+  },
+  {
+    "id": "c-01",
+    "category": "competicoes",
+    "src": null,
+    "alt": "Brasileiro 2026",
+    "caption": "Campeonato Brasileiro SUB-15 — 2026"
+  },
+  {
+    "id": "c-02",
+    "category": "competicoes",
+    "src": null,
+    "alt": "Sul-Americano 2025",
+    "caption": "Sul-Americano de Judô — Assunção, Paraguai"
+  },
+  {
+    "id": "c-03",
+    "category": "competicoes",
+    "src": null,
+    "alt": "Pan-Americano 2024",
+    "caption": "Pan-Americano SUB-13 — Varadero, Cuba"
+  },
+  {
+    "id": "c-04",
+    "category": "competicoes",
+    "src": null,
+    "alt": "Estadual 2025",
+    "caption": "Campeonato Estadual — Brasília/DF"
+  },
+  {
+    "id": "c-05",
+    "category": "competicoes",
+    "src": null,
+    "alt": "Região IV 2024",
+    "caption": "Brasileiro Região IV — 2024"
+  },
+  {
+    "id": "p-01",
+    "category": "podios",
+    "src": null,
+    "alt": "Pódio Brasileiro 2026",
+    "caption": "Pódio — Campeão Brasileiro SUB-15 2026"
+  },
+  {
+    "id": "p-02",
+    "category": "podios",
+    "src": null,
+    "alt": "Pódio Pan-Americano",
+    "caption": "Pódio — Vice Pan-Americano SUB-13 2024"
+  },
+  {
+    "id": "p-03",
+    "category": "podios",
+    "src": null,
+    "alt": "Pódio Sul-Americano",
+    "caption": "Pódio — Vice Sul-Americano 2025"
+  },
+  {
+    "id": "p-04",
+    "category": "podios",
+    "src": null,
+    "alt": "Pódio Copa Minas",
+    "caption": "Pódio — Campeão XVIII Copa Minas"
+  },
+  {
+    "id": "b-01",
+    "category": "bastidores",
+    "src": null,
+    "alt": "Aquecimento pré-luta",
+    "caption": "Bastidores — aquecimento pré-luta"
+  },
+  {
+    "id": "b-02",
+    "category": "bastidores",
+    "src": null,
+    "alt": "Concentração antes da final",
+    "caption": "Concentração antes da final"
+  },
+  {
+    "id": "b-03",
+    "category": "bastidores",
+    "src": null,
+    "alt": "Equipe e comissão técnica",
+    "caption": "Equipe e comissão técnica"
+  },
+  {
+    "id": "b-04",
+    "category": "bastidores",
+    "src": null,
+    "alt": "Viagem para competição",
+    "caption": "Viagem para competição internacional"
+  }
+]

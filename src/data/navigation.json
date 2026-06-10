@@ -1,0 +1,11 @@
+[
+  { "id": "sobre", "label": "Sobre", "href": "#sobre" },
+  { "id": "estatisticas", "label": "Estatísticas", "href": "#estatisticas" },
+  { "id": "trajetoria", "label": "Trajetória", "href": "#trajetoria" },
+  { "id": "conquistas", "label": "Conquistas", "href": "#conquistas" },
+  { "id": "resultados", "label": "Resultados", "href": "#resultados" },
+  { "id": "galeria", "label": "Galeria", "href": "#galeria" },
+  { "id": "perfil", "label": "Perfil", "href": "#perfil" },
+  { "id": "patrocinadores", "label": "Patrocinadores", "href": "#patrocinadores" },
+  { "id": "contato", "label": "Contato", "href": "#contato" }
+]

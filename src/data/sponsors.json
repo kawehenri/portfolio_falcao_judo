@@ -1,0 +1,37 @@
+[
+  {
+    "id": "s-01",
+    "name": "Seu Patrocínio Aqui",
+    "logo": null,
+    "url": "#contato",
+    "tier": "ouro"
+  },
+  {
+    "id": "s-02",
+    "name": "Parceiro Esportivo",
+    "logo": null,
+    "url": "#contato",
+    "tier": "prata"
+  },
+  {
+    "id": "s-03",
+    "name": "Apoiador Institucional",
+    "logo": null,
+    "url": "#contato",
+    "tier": "bronze"
+  },
+  {
+    "id": "s-04",
+    "name": "Academia Corpo Arte",
+    "logo": null,
+    "url": "#",
+    "tier": "parceiro"
+  },
+  {
+    "id": "s-05",
+    "name": "FEMEJU DF",
+    "logo": null,
+    "url": "#",
+    "tier": "parceiro"
+  }
+]

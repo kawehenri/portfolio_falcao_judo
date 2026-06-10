@@ -1,0 +1,33 @@
+[
+  {
+    "id": "gold",
+    "label": "Medalhas de Ouro",
+    "value": 12,
+    "icon": "gold"
+  },
+  {
+    "id": "silver",
+    "label": "Medalhas de Prata",
+    "value": 2,
+    "icon": "silver"
+  },
+  {
+    "id": "bronze",
+    "label": "Medalhas de Bronze",
+    "value": 2,
+    "icon": "bronze"
+  },
+  {
+    "id": "competitions",
+    "label": "Competições Disputadas",
+    "value": 18,
+    "icon": "competitions"
+  },
+  {
+    "id": "years",
+    "label": "Anos de Carreira",
+    "value": 3,
+    "suffix": "+",
+    "icon": "years"
+  }
+]

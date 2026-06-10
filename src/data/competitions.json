@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c-2026-01",
+    "year": 2026,
+    "name": "Campeonato Brasileiro SUB-15",
+    "location": "Nacional",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2026-02",
+    "year": 2026,
+    "name": "Campeonato Estadual de Judô",
+    "location": "Brasília/DF",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2026-03",
+    "year": 2026,
+    "name": "Brasileiro Região IV",
+    "location": "Região IV",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2025-01",
+    "year": 2025,
+    "name": "Sul-Americano de Judô",
+    "location": "Assunção, Paraguai",
+    "result": "Vice-Campeão",
+    "medal": "prata"
+  },
+  {
+    "id": "c-2025-02",
+    "year": 2025,
+    "name": "Campeonato Brasileiro SUB-15",
+    "location": "Nacional",
+    "result": "3º Lugar",
+    "medal": "bronze"
+  },
+  {
+    "id": "c-2025-03",
+    "year": 2025,
+    "name": "Campeonato Estadual de Judô",
+    "location": "Brasília/DF",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2025-04",
+    "year": 2025,
+    "name": "Brasileiro Região IV",
+    "location": "Região IV",
+    "result": "2º Lugar",
+    "medal": "prata"
+  },
+  {
+    "id": "c-2025-05",
+    "year": 2025,
+    "name": "Jogos Escolares do Distrito Federal",
+    "location": "Brasília/DF",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2025-06",
+    "year": 2025,
+    "name": "Jogos Escolares Brasileiros — Série Ouro",
+    "location": "Nacional",
+    "result": "3º Lugar",
+    "medal": "bronze"
+  },
+  {
+    "id": "c-2024-01",
+    "year": 2024,
+    "name": "Pan-Americano SUB-13",
+    "location": "Varadero, Cuba",
+    "result": "Vice-Campeão",
+    "medal": "prata"
+  },
+  {
+    "id": "c-2024-02",
+    "year": 2024,
+    "name": "Campeonato Brasileiro SUB-15",
+    "location": "Nacional",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2024-03",
+    "year": 2024,
+    "name": "Campeonato Estadual de Judô",
+    "location": "Brasília/DF",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2024-04",
+    "year": 2024,
+    "name": "Brasileiro Região IV",
+    "location": "Região IV",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2024-05",
+    "year": 2024,
+    "name": "XVIII Copa Minas",
+    "location": "Minas Gerais",
+    "result": "Campeão",
+    "medal": "ouro"
+  },
+  {
+    "id": "c-2024-06",
+    "year": 2024,
+    "name": "Jogos Escolares do Distrito Federal",
+    "location": "Brasília/DF",
+    "result": "Campeão",
+    "medal": "ouro"
+  }
+]

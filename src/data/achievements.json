@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bra-2026",
+    "title": "Campeão Brasileiro SUB-15",
+    "year": "2026",
+    "type": "ouro",
+    "location": "Nacional",
+    "description": "Título no Campeonato Brasileiro de Judô SUB-15.",
+    "details": "Conquista do título nacional na categoria SUB-15 Masculino, confirmando o alto rendimento e a consistência nos principais torneios do calendário brasileiro."
+  },
+  {
+    "id": "est-2026",
+    "title": "Campeão Estadual de Judô",
+    "year": "2026",
+    "type": "ouro",
+    "location": "Brasília/DF",
+    "description": "Título no Campeonato Estadual do Distrito Federal.",
+    "details": "Vitória no estadual representando FEMEJU DF e Academia Corpo Arte, reforçando a liderança no cenário local."
+  },
+  {
+    "id": "reg4-2026",
+    "title": "Campeão Brasileiro Região IV",
+    "year": "2026",
+    "type": "ouro",
+    "location": "Região IV",
+    "description": "Título na competição regional que classifica para o nacional.",
+    "details": "Domínio na Região IV, etapa fundamental do circuito nacional de base."
+  },
+  {
+    "id": "sul-2025",
+    "title": "Vice-Campeão Sul-Americano",
+    "year": "2025",
+    "type": "prata",
+    "location": "Assunção, Paraguai",
+    "description": "Medalha de prata no Sul-Americano de Judô.",
+    "details": "Resultado expressivo em competição internacional sul-americana, representando o Brasil com excelência."
+  },
+  {
+    "id": "pan-2024",
+    "title": "Vice-Campeão Pan-Americano SUB-13",
+    "year": "2024",
+    "type": "prata",
+    "location": "Varadero, Cuba",
+    "description": "Medalha de prata no Pan-Americano SUB-13.",
+    "details": "Primeiro grande pódio internacional, marcando o início da projeção continental do atleta."
+  },
+  {
+    "id": "bra-2024",
+    "title": "Campeão Brasileiro SUB-15",
+    "year": "2024",
+    "type": "ouro",
+    "location": "Nacional",
+    "description": "Primeiro título brasileiro na categoria SUB-15.",
+    "details": "Conquista histórica que posicionou Rodrigo entre os principais atletas da categoria de base nacional."
+  },
+  {
+    "id": "copa-minas-2024",
+    "title": "Campeão XVIII Copa Minas",
+    "year": "2024",
+    "type": "ouro",
+    "location": "Minas Gerais",
+    "description": "Título na tradicional Copa Minas de Judô.",
+    "details": "Vitória em um dos torneios mais tradicionais do calendário nacional de base."
+  },
+  {
+    "id": "jeb-2025",
+    "title": "3º Lugar Jogos Escolares Brasileiros",
+    "year": "2025",
+    "type": "bronze",
+    "location": "Nacional — Série Ouro",
+    "description": "Medalha de bronze nos JEB Série Ouro.",
+    "details": "Pódio nos Jogos Escolares Brasileiros, competição de alto nível entre os melhores atletas escolares do país."
+  }
+]

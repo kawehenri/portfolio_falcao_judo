@@ -1,0 +1,99 @@
+@import "tailwindcss";
+@import "./timeline.css";
+
+@theme {
+  --color-judo-black: #13100d;
+  --color-judo-white: #f4ede6;
+  --color-judo-brown: #9a6b45;
+  --color-judo-brown-light: #c4a882;
+  --color-judo-purple: #7b5ea7;
+  --color-judo-purple-light: #a78bce;
+  --color-judo-graphite: #1f1a16;
+  --color-judo-graphite-light: #2c251f;
+  --color-judo-muted: #948880;
+  --color-judo-silver: #c9bfb5;
+  --color-judo-gold: #c4a882;
+  --color-judo-bronze: #a67c52;
+
+  --font-sans: "DM Sans", system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-judo-black text-judo-white font-sans antialiased;
+  }
+
+  ::selection {
+    @apply bg-judo-purple/40 text-judo-white;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  .section-padding {
+    @apply px-4 py-20 sm:px-6 lg:px-8 lg:py-28;
+  }
+
+  .section-container {
+    @apply mx-auto max-w-7xl;
+  }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-judo-white via-judo-brown-light to-judo-purple-light bg-clip-text text-transparent;
+  }
+
+  .card-surface {
+    @apply rounded-2xl border border-judo-brown/10 bg-judo-graphite/70 backdrop-blur-sm;
+  }
+
+  .gallery-scroll {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .gallery-scroll::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@keyframes hero-ken-burns {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes hero-bg-fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.38;
+  }
+}
+
+.hero-bg-image {
+  animation: hero-bg-fade-in 1.5s ease-out forwards, hero-ken-burns 20s ease-in-out infinite;
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seuusuario.github.io/portfolio_falcao_judo/sitemap.xml

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "start",
+    "year": "2023",
+    "title": "Início na Categoria SUB-13",
+    "description": "Começo da trajetória competitiva na categoria SUB-13 Masculino (-48kg / -50kg), representando o Distrito Federal.",
+    "highlight": false
+  },
+  {
+    "id": "pan2024",
+    "year": "2024",
+    "title": "Vice-Campeão Pan-Americano SUB-13",
+    "description": "Conquista da medalha de prata no Pan-Americano em Varadero, Cuba — primeiro grande resultado internacional.",
+    "highlight": true
+  },
+  {
+    "id": "bra2024",
+    "year": "2024",
+    "title": "Campeão Brasileiro SUB-15",
+    "description": "Título nacional na categoria SUB-15, consolidando presença no pódio brasileiro.",
+    "highlight": true
+  },
+  {
+    "id": "ranking2024",
+    "year": "2024",
+    "title": "Líder do Ranking DF",
+    "description": "Assume a liderança do ranking de Judô do Distrito Federal, posição mantida nos anos seguintes.",
+    "highlight": false
+  },
+  {
+    "id": "sub15",
+    "year": "2025",
+    "title": "Transição para SUB-15",
+    "description": "Mudança definitiva para categoria SUB-15 Masculino (-55kg / -60kg), ampliando desafios competitivos.",
+    "highlight": false
+  },
+  {
+    "id": "sul2025",
+    "year": "2025",
+    "title": "Vice-Campeão Sul-Americano",
+    "description": "Medalha de prata no Sul-Americano de Judô em Assunção, Paraguai.",
+    "highlight": true
+  },
+  {
+    "id": "bra2026",
+    "year": "2026",
+    "title": "Campeão Brasileiro SUB-15",
+    "description": "Novo título no Campeonato Brasileiro Nacional SUB-15, confirmando evolução constante.",
+    "highlight": true
+  }
+]
