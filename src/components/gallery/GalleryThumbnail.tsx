@@ -13,7 +13,7 @@ export function GalleryThumbnail({ item, onClick }: GalleryThumbnailProps) {
     <motion.button
       type="button"
       onClick={onClick}
-      className="group relative aspect-video w-[220px] shrink-0 overflow-hidden rounded-lg bg-judo-graphite focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-judo-purple sm:w-[260px] md:w-[280px]"
+      className="group relative aspect-[3/4] w-[220px] shrink-0 overflow-hidden rounded-lg bg-judo-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-judo-purple sm:w-[260px] md:w-[280px]"
       whileHover={{ scale: 1.03 }}
       whileTap={{ scale: 0.98 }}
       aria-label={`Ver imagem: ${item.caption}`}
@@ -23,7 +23,7 @@ export function GalleryThumbnail({ item, onClick }: GalleryThumbnailProps) {
           src={publicUrl(item.src)}
           alt={item.alt}
           loading="lazy"
-          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+          className="h-full w-full object-contain object-center transition-transform duration-500 group-hover:scale-[1.02]"
         />
       ) : (
         <div className="flex h-full w-full flex-col items-center justify-center bg-gradient-to-br from-judo-graphite to-judo-black">
