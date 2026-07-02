@@ -37,9 +37,9 @@
   {
     "id": "c-01",
     "category": "competicoes",
-    "src": null,
-    "alt": "Brasileiro 2026",
-    "caption": "Campeonato Brasileiro SUB-15 — 2026"
+    "src": "/imagens/galeria/brasileiro-2026/luta-kimono-azul.jpeg",
+    "alt": "Rodrigo Falcão em combate no Brasileiro 2026",
+    "caption": "Kimono azul em combate — Campeonato Brasileiro SUB-15, Sergipe 2026"
   },
   {
     "id": "c-02",
@@ -65,16 +65,37 @@
   {
     "id": "c-05",
     "category": "competicoes",
-    "src": null,
-    "alt": "Região IV 2024",
-    "caption": "Brasileiro Região IV — 2024"
+    "src": "/imagens/galeria/regional-2026/luta-falcao-mt.jpeg",
+    "alt": "Rodrigo Falcão em luta no Brasileiro Região IV 2026",
+    "caption": "Disputa acirrada no tatamê — Brasileiro Região IV, Campo Verde/MT 2026"
+  },
+  {
+    "id": "c-06",
+    "category": "competicoes",
+    "src": "/imagens/galeria/regional-2026/luta-kimono-azul.jpeg",
+    "alt": "Combate no Brasileiro Região IV 2026",
+    "caption": "Intensidade no combate — Região IV 2026, representando o DF"
+  },
+  {
+    "id": "c-07",
+    "category": "competicoes",
+    "src": "/imagens/galeria/regional-2026/newaza-chao.jpeg",
+    "alt": "Trabalho de solo no Brasileiro Região IV 2026",
+    "caption": "Domínio no solo — técnica e controle no Brasileiro Região IV 2026"
+  },
+  {
+    "id": "c-08",
+    "category": "competicoes",
+    "src": "/imagens/galeria/brasileiro-2026/concentracao-femeju.jpeg",
+    "alt": "Rodrigo Falcão concentrado no Brasileiro 2026",
+    "caption": "Foco absoluto com patch FEMEJU — Campeonato Brasileiro SUB-15, Sergipe 2026"
   },
   {
     "id": "p-01",
     "category": "podios",
-    "src": null,
-    "alt": "Pódio Brasileiro 2026",
-    "caption": "Pódio — Campeão Brasileiro SUB-15 2026"
+    "src": "/imagens/galeria/brasileiro-2026/medalha-ouro-cbj.jpeg",
+    "alt": "Rodrigo Falcão com medalha de ouro CBJ",
+    "caption": "Medalha de ouro CBJ — Campeão Brasileiro SUB-15 2026"
   },
   {
     "id": "p-02",
@@ -96,6 +117,20 @@
     "src": null,
     "alt": "Pódio Copa Minas",
     "caption": "Pódio — Campeão XVIII Copa Minas"
+  },
+  {
+    "id": "p-05",
+    "category": "podios",
+    "src": "/imagens/galeria/brasileiro-2026/celebracao-vitoria.jpeg",
+    "alt": "Rodrigo Falcão comemorando vitória no Brasileiro 2026",
+    "caption": "Emoção pura no tatamê — título nacional confirmado em Sergipe 2026"
+  },
+  {
+    "id": "p-06",
+    "category": "podios",
+    "src": "/imagens/galeria/regional-2026/vitoria-falcao-belt.jpeg",
+    "alt": "Rodrigo Falcão com faixa FALCÃO bordada após vitória",
+    "caption": "Vitória com a faixa FALCÃO bordada — classificação garantida ao nacional"
   },
   {
     "id": "b-01",
@@ -124,5 +159,47 @@
     "src": null,
     "alt": "Viagem para competição",
     "caption": "Viagem para competição internacional"
+  },
+  {
+    "id": "b-05",
+    "category": "bastidores",
+    "src": "/imagens/galeria/regional-2026/concentracao-tatame.jpeg",
+    "alt": "Rodrigo Falcão em concentração no tatamê",
+    "caption": "Concentração total antes de entrar na área de combate — Região IV 2026"
+  },
+  {
+    "id": "b-06",
+    "category": "bastidores",
+    "src": "/imagens/galeria/regional-2026/pronto-combate.jpeg",
+    "alt": "Rodrigo Falcão pronto para combate",
+    "caption": "Pronto para a luta — garra e determinação no Brasileiro Região IV 2026"
+  },
+  {
+    "id": "b-07",
+    "category": "bastidores",
+    "src": "/imagens/galeria/brasileiro-2026/concentracao-sergipe.jpeg",
+    "alt": "Rodrigo Falcão ajustando kimono em Sergipe",
+    "caption": "Ajuste do judogi no backdrop oficial — Campeonato Brasileiro, Sergipe 2026"
+  },
+  {
+    "id": "b-08",
+    "category": "bastidores",
+    "src": "/imagens/galeria/brasileiro-2026/ajuste-kimono-sergipe.jpeg",
+    "alt": "Rodrigo Falcão no backdrop FSJ Sergipe",
+    "caption": "Ajuste da faixa roxa no backdrop oficial da FSJ Sergipe"
+  },
+  {
+    "id": "b-09",
+    "category": "bastidores",
+    "src": "/imagens/galeria/brasileiro-2026/entrada-area-sergipe.jpeg",
+    "alt": "Rodrigo Falcão entrando na área de combate",
+    "caption": "Entrada na área de combate — foco antes da luta no Brasileiro 2026"
+  },
+  {
+    "id": "b-10",
+    "category": "bastidores",
+    "src": "/imagens/galeria/brasileiro-2026/ajuste-faixa-azul.jpeg",
+    "alt": "Rodrigo Falcão ajustando faixa no kimono azul",
+    "caption": "Preparação impecável — ajuste da faixa antes de representar o DF no nacional"
   }
 ]

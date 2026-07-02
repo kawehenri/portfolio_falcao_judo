@@ -1,5 +1,5 @@
-export const BASE_URL = '/portfolio_falcao_judo'
-export const SITE_URL = 'https://seuusuario.github.io/portfolio_falcao_judo'
+export const BASE_URL = ''
+export const SITE_URL = 'https://rodrigofalcaojudo.site'
 
 export const GALLERY_CATEGORIES = {
   treinos: 'Treinos',

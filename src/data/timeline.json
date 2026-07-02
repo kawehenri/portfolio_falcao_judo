@@ -45,7 +45,14 @@
     "id": "bra2026",
     "year": "2026",
     "title": "Campeão Brasileiro SUB-15",
-    "description": "Novo título no Campeonato Brasileiro Nacional SUB-15, confirmando evolução constante.",
+    "description": "Novo título no Campeonato Brasileiro Nacional SUB-15 em Sergipe, confirmando evolução constante.",
+    "highlight": true
+  },
+  {
+    "id": "pan2026",
+    "year": "2026",
+    "title": "Rumo ao Pan-Americano SUB-15",
+    "description": "Preparação e campanha de apoio para o Campeonato Pan-Americano de Judô SUB-15 no México (27–29 de novembro de 2026).",
     "highlight": true
   }
 ]

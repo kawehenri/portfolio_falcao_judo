@@ -22,7 +22,7 @@ export function Hero() {
   return (
     <section
       id="hero"
-      className="relative flex min-h-screen items-center overflow-hidden pt-16"
+      className="relative flex min-h-screen items-center overflow-hidden"
     >
       {fundoSrc && (
         <div className="absolute inset-0 z-0 overflow-hidden" aria-hidden>

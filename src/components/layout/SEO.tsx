@@ -19,7 +19,7 @@ function setMeta(name: string, content: string, property = false) {
 export function SEO() {
   useEffect(() => {
     const title = `${athlete.shortName} — Atleta de Judô | Alto Rendimento`
-    const description = `${athlete.shortName}, ${athlete.age} anos. Campeão Brasileiro SUB-15 (2026), Vice Pan-Americano e Sul-Americano. Líder do ranking de Judô do Distrito Federal.`
+    const description = `${athlete.shortName}, ${athlete.age} anos. Campeão Brasileiro SUB-15 (2026), Vice Pan-Americano e Sul-Americano. Líder do ranking de Judô do Distrito Federal. Rumo ao Pan-Americano SUB-15 no México (nov/2026).`
     const image = `${SITE_URL}/imgs/perfil.jpeg`
 
     document.title = title

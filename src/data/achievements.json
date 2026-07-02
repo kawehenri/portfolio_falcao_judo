@@ -1,12 +1,21 @@
 [
   {
+    "id": "pan-2026",
+    "title": "Pan-Americano SUB-15 — México",
+    "year": "2026",
+    "type": "titulo",
+    "location": "México",
+    "description": "Próximo desafio internacional — Campeonato Pan-Americano de Judô SUB-15.",
+    "details": "Rodrigo Falcão se prepara para representar o Distrito Federal e o Brasil no Pan-Americano SUB-15, de 27 a 29 de novembro de 2026, no México. Campeão Brasileiro 2026 e vice Pan-Americano SUB-13 (2024), busca elevar a bandeira brasileira ao topo do pódio continental."
+  },
+  {
     "id": "bra-2026",
     "title": "Campeão Brasileiro SUB-15",
     "year": "2026",
     "type": "ouro",
-    "location": "Nacional",
+    "location": "Aracaju/Sergipe",
     "description": "Título no Campeonato Brasileiro de Judô SUB-15.",
-    "details": "Conquista do título nacional na categoria SUB-15 Masculino, confirmando o alto rendimento e a consistência nos principais torneios do calendário brasileiro."
+    "details": "Conquista do título nacional na categoria SUB-15 Masculino em Sergipe, confirmando o alto rendimento e a consistência nos principais torneios do calendário brasileiro."
   },
   {
     "id": "est-2026",
@@ -22,9 +31,9 @@
     "title": "Campeão Brasileiro Região IV",
     "year": "2026",
     "type": "ouro",
-    "location": "Região IV",
+    "location": "Campo Verde/MT",
     "description": "Título na competição regional que classifica para o nacional.",
-    "details": "Domínio na Região IV, etapa fundamental do circuito nacional de base."
+    "details": "Domínio na Região IV em Campo Verde/MT, etapa fundamental do circuito nacional de base."
   },
   {
     "id": "sul-2025",
