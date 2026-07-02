@@ -1,6 +1,7 @@
 import { motion, AnimatePresence } from 'framer-motion'
 import { HiX, HiPhotograph } from 'react-icons/hi'
 import type { GalleryItem } from '@/types'
+import { publicUrl } from '@/lib/constants'
 
 interface GalleryModalProps {
   item: GalleryItem | null
@@ -46,7 +47,7 @@ export function GalleryModal({ item, onClose }: GalleryModalProps) {
             <div className="aspect-video w-full">
               {item.src ? (
                 <img
-                  src={item.src}
+                  src={publicUrl(item.src)}
                   alt={item.alt}
                   className="h-full w-full object-contain bg-judo-black"
                 />

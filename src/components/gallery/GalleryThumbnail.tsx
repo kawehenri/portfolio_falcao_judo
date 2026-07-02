@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion'
 import { HiPhotograph } from 'react-icons/hi'
 import type { GalleryItem } from '@/types'
+import { publicUrl } from '@/lib/constants'
 
 interface GalleryThumbnailProps {
   item: GalleryItem
@@ -19,7 +20,7 @@ export function GalleryThumbnail({ item, onClick }: GalleryThumbnailProps) {
     >
       {item.src ? (
         <img
-          src={item.src}
+          src={publicUrl(item.src)}
           alt={item.alt}
           loading="lazy"
           className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"

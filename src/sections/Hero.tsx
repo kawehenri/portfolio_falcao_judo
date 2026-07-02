@@ -2,7 +2,7 @@ import { motion } from 'framer-motion'
 import { FaDownload, FaEnvelope } from 'react-icons/fa'
 import { Button } from '@/components/ui/Button'
 import { useParallax } from '@/hooks/useParallax'
-import { BASE_URL } from '@/lib/constants'
+import { publicUrl } from '@/lib/constants'
 import athleteData from '@/data/athlete.json'
 import type { Athlete } from '@/types'
 import perfilImg from '@/assets/imgs/perfil.jpeg'
@@ -72,7 +72,7 @@ export function Hero() {
               <FaEnvelope className="h-4 w-4" />
               Entrar em Contato
             </Button>
-            <Button variant="outline" href={`${BASE_URL}/curriculo.pdf`} external>
+            <Button variant="outline" href={publicUrl('curriculo.pdf')} external>
               <FaDownload className="h-4 w-4" />
               Currículo Esportivo
             </Button>

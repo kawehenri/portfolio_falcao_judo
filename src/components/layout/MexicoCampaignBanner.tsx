@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { FaInstagram, FaCopy, FaCheck, FaTimes } from 'react-icons/fa'
 import { Button } from '@/components/ui/Button'
+import { publicUrl } from '@/lib/constants'
 import campaignData from '@/data/campaign.json'
 
 interface Campaign {
@@ -76,7 +77,7 @@ export function MexicoCampaignBanner() {
               <div className="relative mx-auto w-full max-w-md lg:max-w-none">
                 <div className="overflow-hidden rounded-2xl border border-judo-purple/25 shadow-2xl shadow-judo-purple/10">
                   <img
-                    src={campaign.image}
+                    src={publicUrl(campaign.image)}
                     alt={campaign.imageAlt}
                     className="h-auto w-full object-cover"
                   />
